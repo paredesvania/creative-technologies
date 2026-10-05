@@ -96,10 +96,12 @@ We can create a new composition pressing "new composition" or pressing the windo
 * In: Where is it, for more details press it left, column, and choose what I wanna see.
 * shift press: move between begining and end of the timelines of the elements.
 
-Fade: we choose an element/propierties/watch in opacity, I move throug  the time line, when we want it to start and the we move an change it again to when we want it to finish.
+- **Fade:** we choose an element/propierties/watch in opacity, I move throug  the time line, when we want it to start and the we move an change it again to when we want it to finish.
 
-Position: go to element/properties/transform/position, go on the timeline place where I want it to end, and press the watch in position, then go to the place where I want the element to start and change the position there.
+- **Position:** go to element/properties/transform/position, go on the timeline place where I want it to end, and press the watch in position, then go to the place where I want the element to start and change the position there.
 
+- **Zoom in the timeline:** montain on the foot or the bar up the timeline
 
+- **Second bar up the timeline:** choose what I want to export.
 
 
