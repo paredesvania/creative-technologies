@@ -1,44 +1,48 @@
 # 05 oct
 
-Teacher: Marco Di Noia
+**Teacher:** Marco Di Noia
 
-The course will be focused on **animation**
+the course is focused on **animation**
 
-## BlackBoard:
+---
 
-* **DOC:** All the material
-* Exam information
-* Course Reader
-* **some links**: Resources, inspiration
-* Project files
+## Blackboard
 
-## we will be talking about:
+* **DOC:** all the course material
+* exam information
+* course reader
+* **some links:** resources and inspiration
+* project files
+
+## we will be talking about
 
 * typography moving around
 * collage animation
 * shapes and movement
 * layering
 * motion design
-* opening movies and series (ex: the good father, Narcos, lioness)
-* comercial (ex: wix studio, we do we Smirnoff)
+* opening titles for movies and series (ex: the good father, Narcos, lioness)
+* commercials (ex: wix studio, we do we smirnoff)
 * 2D animation and 3D animation
 
-'Imagine a timeline'
+'imagine a timeline' (think of everything as something that happens over time)
 
-> leave the full screen alone sometimes and play with other tecniques, layouts and grids
+> don't always fill the whole screen: play with other techniques, layouts and grids
+
+## key concepts
 
 * video
 * animation
 * graphic design
 * images
-* motion design: type of animation includes abstract elements bringing them to life
-* Styleframes: Series of images
+* **motion design:** a type of animation that takes abstract elements and brings them to life
+* **styleframes:** a series of images that show the look of the animation
 
-## Software applications:
+## software
 
-After Effects and Cinema 4D
+after effects and cinema 4D
 
-### Being a good designer
+## being a good designer
 
 * courage
 * attitude
@@ -47,61 +51,89 @@ After Effects and Cinema 4D
 * luck
 * commitment
 
-### Final exam
+---
 
-1. Multiple choice test about key concepts, terminology, and fundamentals of motion design: **Design for motion: Fundamentaks and thecniques of motion design, by Austin Shaw** and **CourseReader (BlackBoard)**
-2. **Presentation:** choose between choose a lyric, poem, or other meaningful text and create a visual and animation interpretation of it, or propose a personal project. Recommend video length of 60 sec (not stricter)
-3. The **final deliver** consist in: 1 PDF (project description, 1 MP4 video (final rendered video), 1 zip file (assets and project files)
+## final exam
 
+1. **multiple choice test** about key concepts, terminology and fundamentals of motion design. based on:
+   * *Design for Motion: Fundamentals and Techniques of Motion Design*, by Austin Shaw
+   * CourseReader (Blackboard)
+2. **presentation:** two options
+   * choose a lyric, poem or other meaningful text and create a visual and animated interpretation of it
+   * or propose a personal project
+   * recommended video length: 60 sec (not strict)
+3. **final deliverables:**
+   * 1 PDF (project description)
+   * 1 MP4 (final rendered video)
+   * 1 zip file (assets and project files)
 
 ---
 
-### Interface After Effects
+## after effects
 
-* Panel at left: organized, create folders.
-* Folder for composition and other for assets.
-* Inside Assets folder, create other folders to be organized: IMG, SOUND, GRAPH, VIDEO.
-* For add assets we can just drag them into it
+### project panel (left side)
 
-Window/standard
+* keep it organized with folders
+* one folder for compositions, another for assets
+* inside assets, make subfolders: IMG, SOUND, GRAPH, VIDEO
+* to add assets, just drag them into the panel
+* to reset the layout: Window / Workspace / Standard
 
-We can create a new composition pressing "new composition" or pressing the window "composition":
+### new composition
 
-1. Resolution: HD 1920x1080/25fps or social media
-3. square pixel
-4. frame rate, usually 30 for normal and 60 for slow motion
-5. duration hour.minute.second.frame
+two ways to create one: "new composition" button or the "composition" menu.
 
-#### Keys/tools
+settings:
 
-* Space bar: Move around de canvas
-* 50% or 100% zoom to see the real resolution
-* on the small icon boxes at feet of the composition, que last one with a "+" on the center u can add guides
-* the second box shows the transparency of my composition, to create a background Layer/new/solid (or Command + Y)
-* Space bar: to play
-* Preview on right menu: Cache before playback and for less resolution.
-* vector elements: press the center thingy on the menu next to the source name (foot menu)
+1. resolution: HD 1920x1080 / 25fps, or a social media format
+2. pixel aspect: square pixels
+3. frame rate: usually 30 for normal video, 60 if I want slow motion
+4. duration: hours:minutes:seconds:frames
 
+### keys / tools
 
-#### Foot panel:
+* **space bar (held):** hand tool, to move around the canvas
+* **space bar (pressed):** play / pause
+* zoom 50% or 100% to see the real resolution
+* icons at the bottom of the composition window:
+  * the last one, with a "+" in the center, is for guides
+  * the second one shows the transparency of the composition (checkerboard)
+* to create a background: Layer / New / Solid (or Cmd + Y)
+* preview panel (right menu): "cache before playback" and lower resolution so it plays smoother
+* vector elements (logos, shapes): click the small icon in the switches column, next to the source name, so they stay sharp when scaled
 
-* Eye: to hide elements
-* dot: to solo show that
-* lock: to lock an element
-* arrow: properties of the element
-* source name
-* Mode: Blending mode and options if I click on it
-* Toggle switch or corner box thingy down left to see all the options
-* All the elements when I add them they will be the same long (timeline), I can cut them and move them on the timeline.
-* In: Where is it, for more details press it left, column, and choose what I wanna see.
-* shift press: move between begining and end of the timelines of the elements.
+### timeline panel (bottom)
 
-- **Fade:** we choose an element/propierties/watch in opacity, I move throug  the time line, when we want it to start and the we move an change it again to when we want it to finish.
+each layer has these controls:
 
-- **Position:** go to element/properties/transform/position, go on the timeline place where I want it to end, and press the watch in position, then go to the place where I want the element to start and change the position there.
+* **eye:** show / hide the element
+* **dot:** solo, shows only that element
+* **lock:** locks the element so I don't move it by mistake
+* **arrow:** opens the properties of the element
+* **source name:** name of the layer
+* **mode:** blending modes (click to see the options)
+* **toggle switches / modes** (bottom left corner of the timeline): show or hide extra columns and options
+* **in:** shows where each element starts. to see more info, right-click the column header and choose what I want to see
 
-- **Zoom in the timeline:** montain on the foot or the bar up the timeline
+working on the timeline:
 
-- **Second bar up the timeline:** choose what I want to export.
+* when I add elements, they all have the same length. I can cut them and move them along the timeline
+* **shift + drag:** the playhead snaps to the beginning and end of the elements
+* **zoom in the timeline:** the mountain icon at the bottom or the bar above the timeline
+* **second bar above the timeline:** (work area) sets which part I want to export
 
+### basic animations (keyframes)
 
+the stopwatch icon is what creates keyframes.
+
+* **fade:**
+  1. select the element / properties / opacity
+  2. move through the timeline to where I want the fade to start and click the stopwatch
+  3. move to where I want it to finish and change the opacity value
+
+* **position:**
+  1. select the element / properties / transform / position
+  2. go to the point in the timeline where I want it to end and click the stopwatch on position
+  3. go to where I want it to start and change the position there
+
+     
