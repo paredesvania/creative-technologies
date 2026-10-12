@@ -23,6 +23,35 @@ Make sure to verify if u are making a mask or adding a shape.
 
 ![preview](./images/preview.png)
 
+### Link layers
+
+Drag the remolino to the layer where I wanna link my element
+
+Null object: layer/new/null object
+
+> Effect/choose an effect
+
+### Adjustment layer
+
+Bring it to top, whatever we apply on it, will be apply to everything underneath.
+
+### Masks 
+
+Select your element and go to shapes.
+
+Draw the shape (mask) and edit on mask settings.
+
+* path
+* feather (blur)
+* opacity
+* Expansion (reveal)
+
+  
+
+
+
+
+
 
 
 
